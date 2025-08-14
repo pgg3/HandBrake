@@ -1,4 +1,4 @@
-﻿namespace HandBrakeWPF.Model.Options
+namespace HandBrakeWPF.Model.Options
 {
     using HandBrake.Interop.Attributes;
 
